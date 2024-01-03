@@ -14,5 +14,5 @@ These are the pipeline files for RNN, CNN(UNet) cases of KalmanNet respectively.
 The pipeline mainly defines the Training/CV/Testing processes of KalmanNet.
 
 RNN model -> main_for_fertilizer400.py
-CNN model -> main_for_CNN.py
-UNet model -> main_for_UNet.py
+CNN model/UNet model -> main_for_CNN.py
+
